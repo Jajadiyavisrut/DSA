@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Jajadiyavisrut/DSA/tree/master/0263-ugly-number) |
+| [0365-water-and-jug-problem](https://github.com/Jajadiyavisrut/DSA/tree/master/0365-water-and-jug-problem) |
 ## Array
 |  |
 | ------- |
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0001-two-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Jajadiyavisrut/DSA/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Jajadiyavisrut/DSA/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
