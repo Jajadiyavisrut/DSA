@@ -6,6 +6,7 @@
 | ------- |
 | [0263-ugly-number](https://github.com/Jajadiyavisrut/DSA/tree/master/0263-ugly-number) |
 | [0365-water-and-jug-problem](https://github.com/Jajadiyavisrut/DSA/tree/master/0365-water-and-jug-problem) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Jajadiyavisrut/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Jajadiyavisrut/DSA/tree/master/0365-water-and-jug-problem) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Jajadiyavisrut/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
