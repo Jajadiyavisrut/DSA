@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jajadiyavisrut/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0015-3sum) |
+| [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
 | [0137-single-number-ii](https://github.com/Jajadiyavisrut/DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jajadiyavisrut/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -42,6 +43,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jajadiyavisrut/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
