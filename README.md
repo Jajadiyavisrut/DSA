@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Jajadiyavisrut/DSA/tree/master/0029-divide-two-integers) |
 | [0263-ugly-number](https://github.com/Jajadiyavisrut/DSA/tree/master/0263-ugly-number) |
 | [0365-water-and-jug-problem](https://github.com/Jajadiyavisrut/DSA/tree/master/0365-water-and-jug-problem) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jajadiyavisrut/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -22,6 +23,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Jajadiyavisrut/DSA/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Jajadiyavisrut/DSA/tree/master/0137-single-number-ii) |
 ## Sorting
 |  |
