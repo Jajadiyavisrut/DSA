@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jajadiyavisrut/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Jajadiyavisrut/DSA/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Jajadiyavisrut/DSA/tree/master/0263-ugly-number) |
 | [0365-water-and-jug-problem](https://github.com/Jajadiyavisrut/DSA/tree/master/0365-water-and-jug-problem) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jajadiyavisrut/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -14,6 +15,7 @@
 | [0001-two-sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jajadiyavisrut/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Jajadiyavisrut/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
 | [0137-single-number-ii](https://github.com/Jajadiyavisrut/DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jajadiyavisrut/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,6 +47,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jajadiyavisrut/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
