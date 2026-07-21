@@ -19,6 +19,7 @@
 | [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
 | [0137-single-number-ii](https://github.com/Jajadiyavisrut/DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jajadiyavisrut/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0260-single-number-iii](https://github.com/Jajadiyavisrut/DSA/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Jajadiyavisrut/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Jajadiyavisrut/DSA/tree/master/0905-sort-array-by-parity) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jajadiyavisrut/DSA/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Jajadiyavisrut/DSA/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Jajadiyavisrut/DSA/tree/master/0260-single-number-iii) |
 ## Sorting
 |  |
 | ------- |
