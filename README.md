@@ -22,6 +22,7 @@
 | [0260-single-number-iii](https://github.com/Jajadiyavisrut/DSA/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Jajadiyavisrut/DSA/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Jajadiyavisrut/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/Jajadiyavisrut/DSA/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
@@ -64,6 +65,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jajadiyavisrut/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/Jajadiyavisrut/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Jajadiyavisrut/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
