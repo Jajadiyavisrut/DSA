@@ -17,6 +17,7 @@
 | [0015-3sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Jajadiyavisrut/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Jajadiyavisrut/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Jajadiyavisrut/DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jajadiyavisrut/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/Jajadiyavisrut/DSA/tree/master/0260-single-number-iii) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jajadiyavisrut/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Jajadiyavisrut/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Jajadiyavisrut/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Jajadiyavisrut/DSA/tree/master/0260-single-number-iii) |
 ## Sorting
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Jajadiyavisrut/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jajadiyavisrut/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
