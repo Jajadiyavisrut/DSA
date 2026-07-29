@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Jajadiyavisrut/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jajadiyavisrut/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/Jajadiyavisrut/DSA/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Jajadiyavisrut/DSA/tree/master/1768-merge-strings-alternately) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jajadiyavisrut/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Jajadiyavisrut/DSA/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Jajadiyavisrut/DSA/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
