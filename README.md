@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jajadiyavisrut/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/Jajadiyavisrut/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Jajadiyavisrut/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Jajadiyavisrut/DSA/tree/master/0078-subsets) |
@@ -106,5 +107,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Jajadiyavisrut/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Jajadiyavisrut/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
