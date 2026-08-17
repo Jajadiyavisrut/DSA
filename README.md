@@ -27,6 +27,7 @@
 | [0414-third-maximum-number](https://github.com/Jajadiyavisrut/DSA/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Jajadiyavisrut/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/Jajadiyavisrut/DSA/tree/master/0905-sort-array-by-parity) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jajadiyavisrut/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Bit Manipulation
 |  |
 | ------- |
