@@ -26,6 +26,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Jajadiyavisrut/DSA/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Jajadiyavisrut/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Jajadiyavisrut/DSA/tree/master/0735-asteroid-collision) |
 | [0905-sort-array-by-parity](https://github.com/Jajadiyavisrut/DSA/tree/master/0905-sort-array-by-parity) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jajadiyavisrut/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Bit Manipulation
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Jajadiyavisrut/DSA/tree/master/0735-asteroid-collision) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jajadiyavisrut/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Jajadiyavisrut/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
