@@ -67,6 +67,7 @@
 | [0015-3sum](https://github.com/Jajadiyavisrut/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Jajadiyavisrut/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Jajadiyavisrut/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Jajadiyavisrut/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jajadiyavisrut/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jajadiyavisrut/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/Jajadiyavisrut/DSA/tree/master/0905-sort-array-by-parity) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jajadiyavisrut/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Jajadiyavisrut/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Jajadiyavisrut/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jajadiyavisrut/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jajadiyavisrut/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Jajadiyavisrut/DSA/tree/master/1768-merge-strings-alternately) |
