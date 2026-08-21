@@ -23,6 +23,7 @@
 | [0078-subsets](https://github.com/Jajadiyavisrut/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Jajadiyavisrut/DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jajadiyavisrut/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/Jajadiyavisrut/DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Jajadiyavisrut/DSA/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jajadiyavisrut/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Jajadiyavisrut/DSA/tree/master/0414-third-maximum-number) |
@@ -115,6 +116,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Jajadiyavisrut/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Jajadiyavisrut/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
